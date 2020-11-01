@@ -1,0 +1,16 @@
+{
+  "name": "cellular_automata",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "watch ": "parcel watch ./src/index.html",
+    "build ": "parcel build index.html"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "parcel-bundler": "^1.12.4"
+  }
+}

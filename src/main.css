@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+}
+.celaut_row {
+    margin: 0;
+    padding: 0;
+}
+.cell {
+    display: inline-block;
+    background-color: darksalmon;
+}
+.active {
+    background-color: green;
+}
